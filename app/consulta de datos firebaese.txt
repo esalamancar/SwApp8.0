@@ -1,0 +1,48 @@
+<Textview
+     android:id=¨a=id/textViewaDate¨
+     android:layaout_width = "wrap_content¨
+     android:layaout_heigth = "wrap_content¨
+     android:text = "Hello world"/>
+
+</Lineartlayout>
+
+--------------------------------------------------
+import...
+
+Public class MainActivity extends  AppcompatActivity 	{	   
+      private TextView mTextViewDate;
+      private DatabaseReference mDatabase;	
+
+ @Override						
+ protected void oncreate(Bundle savedinstacestate)	{ 
+    super.oncreate(savedinstacestate); 
+    sercontenView(R.Layout.activity_main); 
+
+    mTextViewData = (TextView) finViewById(R.id.textViewData);
+    mDatabase = FirebaseDatabase.getInstance().getReference();
+
+     mDatabase.child("Persona").addValueEvenlistener(new ValueEvenlistener)   				{
+
+
+
+    @Override
+    public void onDatachanger(@NonNull DataSnapshot)	{
+   
+        if (dataSnapshot.exists()){						
+            String nombre = dataSnapshot.child("nombre")getValue().toString();
+            String apellido = dataSnapshot.child("apellido")getValue().toString();
+            Int edad = Integer.parseInt (dataSnapshot.child("edad")getValue().toString());
+
+
+            mTextViewDate.seText("El nombre es:" "+ nombre + "el apeelido es" + apellido + " y la edad es" + edad);
+			
+     	} 
+     
+    @Override
+    public void onCancelled(@NomNull DatabaseError databaseError)	{
+ }
+}}
+
+--------------------------------------------------
+
+Implementation "con.google.firebase: firebase-core: 16.0.1"

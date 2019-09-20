@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#33B4E4</color>
+    <color name="colorPrimaryDark">#0099CC</color>
+    <color name="colorAccent">#ff33b5e5</color>
+    <color name="colorfactura">#49F5AB</color>
+    <color name="colorhome">#9FC5EE</color>
+    <color name="colortransport">#EE5148</color>
+    <color name="colorsalario">#42A9B8</color>
+    <color name="colorextra">#EBBF63</color>
+    <color name="colorprestamo">#EE7972</color>
+</resources>

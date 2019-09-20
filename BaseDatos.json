@@ -1,0 +1,143 @@
+{
+  "Gastos" : {
+    "esalamanca@sanmateoeduco" : {
+      "S4-33654" : {
+        "Categoria" : "VIVIENDA",
+        "Fecha" : "12/12/12",
+        "Nota" : "factura x",
+        "Tipo" : "fijo",
+        "Valor" : "240000"
+      },
+      "hahah" : {
+        "Categoria" : "VIVIENDA",
+        "Fecha" : "3/3/3/",
+        "Nota" : "jajajanan",
+        "Tipo" : "fijo",
+        "Valor" : "64810"
+      },
+      "iiiii" : {
+        "Categoria" : "VIVIENDA",
+        "Fecha" : "3333",
+        "Nota" : "iiiii",
+        "Tipo" : "fijo",
+        "Valor" : "555"
+      },
+      "jajaja" : {
+        "Categoria" : "VIVIENDA",
+        "Fecha" : "2/2/2/",
+        "Nota" : "hahahah",
+        "Tipo" : "fijo",
+        "Valor" : "64975"
+      },
+      "pppp" : {
+        "Categoria" : "VIVIENDA",
+        "Fecha" : "666",
+        "Nota" : "jajaka",
+        "Tipo" : "fijo",
+        "Valor" : "33494"
+      },
+      "s1-556" : {
+        "Categoria" : "VIVIENDA",
+        "Fecha" : "17/12/2019",
+        "Nota" : "renta apartamento",
+        "Tipo" : "fijo",
+        "Valor" : "600000"
+      },
+      "uuuuu" : {
+        "Categoria" : "VIVIENDA",
+        "Fecha" : "8003",
+        "Nota" : "uwu",
+        "Tipo" : "fijo",
+        "Valor" : "5849"
+      }
+    }
+  },
+  "Ingresos" : {
+    "ID1" : {
+      "Ingreso1" : {
+        "Categoria" : "Activo",
+        "Fecha" : "10/12/2020",
+        "Nota" : "Sueldo en ...",
+        "Valor" : "13000"
+      },
+      "Ingreso2" : {
+        "Categoria" : "GananciaCapital",
+        "Fecha" : "10/12/2020",
+        "Nota" : "Venta de ...",
+        "Valor" : "13000"
+      },
+      "Ingreso3" : {
+        "Categoria" : "Pasivo",
+        "Fecha" : "10/12/2020",
+        "Nota" : "Alquiler de ...",
+        "Valor" : "13000"
+      }
+    },
+    "ID2" : {
+      "Ingreso1" : {
+        "Categoria" : "Activo",
+        "Fecha" : "10/12/2020",
+        "Nota" : "Sueldo en ...",
+        "Valor" : "13000"
+      },
+      "Ingreso2" : {
+        "Categoria" : "GananciaCapital",
+        "Fecha" : "10/12/2020",
+        "Nota" : "Venta de ...",
+        "Valor" : "13000"
+      },
+      "Ingreso3" : {
+        "Categoria" : "Pasivo",
+        "Fecha" : "10/12/2020",
+        "Nota" : "Alquiler de ...",
+        "Valor" : "13000"
+      }
+    }
+  },
+  "Persona" : {
+    "ID1" : {
+      "Apellido" : "Apellido1",
+      "Edad" : 1,
+      "Nombre" : "Primer",
+      "Ubicacion" : "Bogota D.C"
+    },
+    "ID2" : {
+      "Apellido" : "Apellido2",
+      "Edad" : 2,
+      "Nombre" : "Segundo",
+      "Ubicacion" : "Bogota D.C"
+    },
+    "ID3" : {
+      "Apellido" : "apellido3",
+      "Edad" : 3,
+      "Nombre" : "Tercer",
+      "Ubicacion" : "Bogota D.C"
+    }
+  },
+  "Totales" : {
+    "ID1" : {
+      "TotalAlimentacion" : 1000000,
+      "TotalEducacion" : 1000000,
+      "TotalGastos" : 1000000,
+      "TotalIngresos" : 1000000,
+      "TotalOcio" : 1000000,
+      "TotalOtros" : 1000000,
+      "TotalTics" : 1000000,
+      "TotalTransporte" : 1000000,
+      "TotalVestuario" : 1000000,
+      "TotalVivienda" : 1000000
+    },
+    "ID2" : {
+      "TotalAlimentacion" : 1000000,
+      "TotalEducacion" : 1000000,
+      "TotalGastos" : 1000000,
+      "TotalIngresos" : 1000000,
+      "TotalOcio" : 1000000,
+      "TotalOtros" : 1000000,
+      "TotalTics" : 1000000,
+      "TotalTransporte" : 1000000,
+      "TotalVestuario" : 1000000,
+      "TotalVivienda" : 1000000
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "164606866159",
+    "firebase_url": "https://swapp-3aa42.firebaseio.com",
+    "project_id": "swapp-3aa42",
+    "storage_bucket": "swapp-3aa42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164606866159:android:b11fdd70c5c72c32",
+        "android_client_info": {
+          "package_name": "com.example.SwappDB"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164606866159-rkhkp6eecml4onjb4i6iaqkoco02g5t7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.SwappDB",
+            "certificate_hash": "7929866981ae6ff8050adca2d4f7ae8694521acf"
+          }
+        },
+        {
+          "client_id": "164606866159-cj5s11hmlstunahoa4idkrbbd539j8fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq9pCGOJSfaqouEvzPfUunxEQ9Xq5OKwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164606866159-cj5s11hmlstunahoa4idkrbbd539j8fc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
